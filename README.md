@@ -1,1 +1,1 @@
-# python-algorithm-snippets
+# 📌 Algorithms Template for Competitive Programming in Python
